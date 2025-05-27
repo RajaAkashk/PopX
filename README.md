@@ -18,4 +18,4 @@ npm run dev
 🌐 Live Demo
 Check out the live version of the project hosted on Vercel:
 
-👉 
+👉 https://pop-x-xi-two.vercel.app/
